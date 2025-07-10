@@ -1,0 +1,37 @@
+{
+  "id": "592820373842558997",
+  "username": "kft_switch",
+  "avatar": "34522aba677001ddde677ad3f769997f",
+  "discriminator": "0",
+  "public_flags": 4194432,
+  "flags": 4194432,
+  "banner": null,
+  "accent_color": 6287757,
+  "global_name": "KFT",
+  "avatar_decoration_data": {
+    "asset": "a_c3c09bd122898be35093d0d59850f627",
+    "sku_id": "1144305233707671573",
+    "expires_at": null
+  },
+  "collectibles": {
+    "nameplate": {
+      "sku_id": "1349849614311751731",
+      "asset": "nameplates/nameplates/angels/",
+      "label": "COLLECTIBLES_NAMEPLATES_ANGELS_A11Y",
+      "palette": "bubble_gum"
+    }
+  },
+  "banner_color": "#5ff18d",
+  "clan": {
+    "identity_guild_id": "1044698006395555960",
+    "identity_enabled": true,
+    "tag": "STAR",
+    "badge": "66dd35e973cf6054f84b0edd73ac2b02"
+  },
+  "primary_guild": {
+    "identity_guild_id": "1044698006395555960",
+    "identity_enabled": true,
+    "tag": "STAR",
+    "badge": "66dd35e973cf6054f84b0edd73ac2b02"
+  }
+}
