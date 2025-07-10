@@ -4,6 +4,7 @@ module.exports = async function lookmp4upUser(req, res) {
   const HTML = `
     <!DOCTYPE html>
 <head>
+<meta property="og:title" content="ChatGPT">
   <meta property="og:type" content="video.other" />
   <meta property="og:video" content="${mp4}" />
   <meta property="og:video:type" content="video/mp4" />
