@@ -2,9 +2,9 @@
   "name": "api.kftswitch.com",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "npm start"
   },
   "keywords": [],
   "author": "",
